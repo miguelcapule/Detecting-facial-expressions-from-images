@@ -11,3 +11,5 @@
 **Results and conclusion**
 
 - The system correctly identified the correct facial expression in 255 of the 282 images (90.43% of the cases), from 62 subjects not used in training or in initial testing. Committee neural networks offer a potential tool for image based mood detection.
+
+![image](https://github.com/miguelcapule/Detecting-facial-expressions-from-images/assets/92988736/72817124-6e42-46cf-9fcb-bd29efa41371)
